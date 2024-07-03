@@ -400,7 +400,7 @@
         "success_body": "You can now send messages to the Unifier network through the channels. Say hi!"
       },
       "rules": {
-        "description": "DIsplays room rules for the specified room.",
+        "description": "Displays room rules for the specified room.",
         "no_rules": "The admins haven't added rules yet. Though, make sure to always use common sense.",
         "rules_title": "Room rules"
       },
@@ -415,7 +415,7 @@
         "success": "Removed rule!"
       },
       "addbridge": {
-        "description": "ALlows given user's webhooks to be bridged.",
+        "description": "Allows given user's webhooks to be bridged.",
         "already_exists": "This user is already in the whitelist!",
         "allow_title": "Allow @{username} to bridge?",
         "allow_body": "This will allow messages sent via webhooks created by this user to be bridged through Unifier.",
